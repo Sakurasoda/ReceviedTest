@@ -1,0 +1,9 @@
+C:\Users\admin\RiderProjects\ReceivedTest\ReceivedTest\bin\Debug\ReceivedTest.dll
+C:\Users\admin\RiderProjects\ReceivedTest\ReceivedTest\bin\Debug\ReceivedTest.pdb
+C:\Users\admin\RiderProjects\ReceivedTest\ReceivedTest\bin\Debug\nunit.framework.dll
+C:\Users\admin\RiderProjects\ReceivedTest\ReceivedTest\bin\Debug\nunit.framework.xml
+C:\Users\admin\RiderProjects\ReceivedTest\ReceivedTest\obj\Debug\ReceivedTest.csprojAssemblyReference.cache
+C:\Users\admin\RiderProjects\ReceivedTest\ReceivedTest\obj\Debug\ReceivedTest.csproj.CoreCompileInputs.cache
+C:\Users\admin\RiderProjects\ReceivedTest\ReceivedTest\obj\Debug\ReceivedTest.csproj.CopyComplete
+C:\Users\admin\RiderProjects\ReceivedTest\ReceivedTest\obj\Debug\ReceivedTest.dll
+C:\Users\admin\RiderProjects\ReceivedTest\ReceivedTest\obj\Debug\ReceivedTest.pdb
